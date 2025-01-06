@@ -13,7 +13,3 @@ Contributions are welcome! If you have a new exercise or an improvement to an ex
 ## License
 
 This repository does not include a specific license. Feel free to use the content for educational purposes.
-
----
-
-Feel free to modify this README to better fit your needs.
