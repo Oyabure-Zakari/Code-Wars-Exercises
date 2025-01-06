@@ -4,7 +4,7 @@ This repository contains a collection of JavaScript exercises from Code Wars. Ea
 
 ## Introduction
 
-Code Wars is an online platform where developers can improve their coding skills by solving challenges called Katas. This repository collects various JavaScript katas solved by the repository owner. Each exercise is meant to challenge your understanding and implementation skills in JavaScript.
+Code Wars is an online platform where developers can improve their coding skills by solving challenges called Katas. This repository collects various JavaScript katas that are solved by me, Oyabure Zakari. Each exercise is meant to challenge your understanding and implementation skills in JavaScript.
 
 ## Contributing
 
