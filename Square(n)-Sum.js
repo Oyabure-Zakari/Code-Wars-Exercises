@@ -5,7 +5,7 @@ Complete the square sum function so that it squares each number passed into it a
 For example, for [1, 2, 2] it should return 9 because 
 */
 
-//Solution;
+//Solution ;
 function squareSum(numbers) {
   return numbers.reduce((a, b) => a + b ** 2, 0);
 }
