@@ -24,8 +24,8 @@
   - convert the string to an array, then convert each element of the array to numbers
   - create an empty array to store the values that will be pushed to it
   - loop through the array
-  - if the element < 5, then convert the element to a string and replace it with the string "0"
-  - if the element >= 5, then convert the element to a string and replace it with the string "1"
+  - if the element < 5, then assign it to 0
+  - if the element >= 5, then assign it to 1
   - convert the empty array to string and use the join method to remove comma
   - return the resulting string
 */
