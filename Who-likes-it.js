@@ -67,7 +67,7 @@ function likes(names) {
     // rest of the elements in the array
     const restOfNames = names.length;
 
-    // return firstName, secondName and restOfNames like this.
+    // firstName, secondName and restOfNames like this.
     return `${firstName}, ${secondName} and ${restOfNames} others like this`;
   }
 }
