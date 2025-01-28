@@ -33,10 +33,10 @@
   output: array of string
 
   *ALGORITHM
-  - create an empty array to store the membership status
-  - loop through the array
-  - and check the individaul array
-  - if the age >= 55 years old and have a handicap > 7, push "Senior" to the empty array
+  - map over the data array
+  - if the element at the first index (age) >= 55 years old 
+  - and the element at the second index  handicap > 7, 
+  - push "Senior" to the empty array
   - else push "Open" to the empty array
 */
 
