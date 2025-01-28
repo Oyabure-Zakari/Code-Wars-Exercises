@@ -40,16 +40,8 @@
 
 //* CODE
 function highAndLow(numbers) {
-  // converts the string to an array and then converts each string to number
   const numbersArray = numbers.split(" ").map((number) => Number(number));
-
-  //finds the highest and lowest number
-  const highestNumber = Math.max(...numbersArray);
-  const lowestNumber = Math.min(...numbersArray);
-
-  // highest and lowest number as an array, converted to string
-  const finalNumbers = [highestNumber, lowestNumber].join(" ");
-  return finalNumbers;
+  return `${[Math.max(...numbersArray), Math.min(...numbersArray)].join(" ")}`;
 }
 
 console.log(highAndLow("8 3 -5 42 -1 0 0 -9 4 7 4 -4"));
